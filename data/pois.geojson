@@ -1,0 +1,5619 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "国体中心地铁站3号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.816725,
+          28.6231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "国体中心地铁站4号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.816075,
+          28.621954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "国体中心(地铁站)",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.816739,
+          28.622378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "国体中心地铁站2号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.817467,
+          28.622762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "国体中心地铁站1号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.816782,
+          28.621623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "江西省政府会议中心",
+        "category": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.816283,
+          28.632821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "祥云公园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.817475,
+          28.625825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "粉丝广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.817225,
+          28.621375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "中少红领巾公益文化广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.813262,
+          28.619075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "省行政中心广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.812776,
+          28.632963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "水天消防广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.820569,
+          28.615246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "龙岗地铁站2号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.803164,
+          28.623802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "龙岗地铁站3号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.802578,
+          28.623993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "龙岗(地铁站)",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.802987,
+          28.623161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "龙岗地铁站1号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.803383,
+          28.622611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "龙岗地铁站4号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.80235,
+          28.622905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "口袋公园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.803146,
+          28.632255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "科技城地铁站4号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.981894,
+          28.71477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "科技城地铁站1号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.982181,
+          28.715048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "科技城地铁站2号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.982971,
+          28.715555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "科技城(地铁站)",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.982102,
+          28.715406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "科技城地铁站3号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.98129,
+          28.715582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "鱼尾洲公园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.994963,
+          28.71556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "艾溪湖东地铁站2号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.994216,
+          28.675036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "艾溪湖东地铁站1号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.99435,
+          28.674297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "艾溪湖东(地铁站)",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.993489,
+          28.674697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "艾溪湖东地铁站3号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.992864,
+          28.675045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "艾溪湖东地铁站4号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.992596,
+          28.674284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "幸福大礼堂C区",
+        "category": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.994125,
+          28.671125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "广阳小区幸福大礼堂",
+        "category": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.994133,
+          28.671112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "京都主题公园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.996436,
+          28.671951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "太阳广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.00357,
+          28.673767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "新建区聚源体育公园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.813073,
+          28.677559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "红港公园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.822522,
+          28.677049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "南昌大学-修贤广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.807836,
+          28.665813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "长治广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.823799,
+          28.678623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "文润公园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.808033,
+          28.681945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠江路地铁站2号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.876611,
+          28.707863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠江路地铁站3号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.875923,
+          28.708163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠江路(地铁站)",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.875913,
+          28.707524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "长江路地铁站1号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.880011,
+          28.716623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "长江路地铁站4号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.879281,
+          28.716779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "建军雕塑广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.884742,
+          28.707616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "南昌舰主题园-凤凰州湿地公园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.888696,
+          28.720644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "龙沙湾花海公园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.894406,
+          28.709766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "凤凰洲市民公园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.885231,
+          28.708267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "投书浦公园(建设中)",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.87175,
+          28.720139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "翠苑路地铁站4号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.845962,
+          28.672374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "翠苑路(地铁站)",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.846675,
+          28.67262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "翠苑路地铁站3号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.846628,
+          28.673149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "翠苑路地铁站1号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.847193,
+          28.672056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "学府大道东地铁站3号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.838959,
+          28.660224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "红岭花园休闲广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.837356,
+          28.671857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "公园绿地寻园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.827329,
+          28.669092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "三风主题公园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.84955,
+          28.676328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "翠苑路地铁站2号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.847631,
+          28.672459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "秋水广场地铁站1号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.860082,
+          28.680779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "南昌会议中心",
+        "category": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.861264,
+          28.684852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "南昌市红谷滩会展中心",
+        "category": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.861375,
+          28.685225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "赣江市民公园-青铜广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.859324,
+          28.674251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "赣江市民公园-傩文化广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.858024,
+          28.669918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "赣江市民公园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.859624,
+          28.675454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "赣江市民公园一期健走步道-小广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.859549,
+          28.675929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "万达红歌广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.854397,
+          28.668476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "丁公路北地铁站3号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.912271,
+          28.674176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "丁公路北(地铁站)",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.913332,
+          28.673933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "丁公路北地铁站2号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.913928,
+          28.674192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "丁公路北地铁站4号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.912691,
+          28.673684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "丁公路北地铁站1号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.913292,
+          28.673581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "江西师范大学大礼堂",
+        "category": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.92244,
+          28.675735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "江西饭店会议中心",
+        "category": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.902475,
+          28.679675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "天寰会议中心",
+        "category": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.905075,
+          28.666275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "人民公园-园中园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.912939,
+          28.67928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "树荫广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.913504,
+          28.680759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "人民公园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.91454,
+          28.680514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "人民公园-方志敏雕塑广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.915767,
+          28.681546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "丁公路绿地广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.911758,
+          28.670355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "灌婴路地铁站1号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.873381,
+          28.647207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "灌婴路地铁站2号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.873354,
+          28.648641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "灌婴路(地铁站)",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.872805,
+          28.648037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "灌婴路地铁站3号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.872964,
+          28.648886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "南昌大桥东地铁站1号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.878141,
+          28.65491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "仁爱妇产医院文化广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.884303,
+          28.654617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "叠翠",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.884365,
+          28.65463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "南昌动物园-海洋馆",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.874955,
+          28.634884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "狒狒馆-赤猴",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.875137,
+          28.632952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "南昌动物园(桃花南路)",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.877513,
+          28.632217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "地铁大厦地铁站4号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.85124,
+          28.684308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "地铁大厦地铁站出入口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.852071,
+          28.683794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "地铁大厦地铁站5号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.852291,
+          28.683534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "地铁大厦地铁站3号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.851405,
+          28.684644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "地铁大厦(地铁站)",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.852386,
+          28.684076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "江报传媒大厦会议中心",
+        "category": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.858064,
+          28.688684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "新锐广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.848656,
+          28.686177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "绿地中心广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.854346,
+          28.68609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "红谷滩中央绿廊广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.849527,
+          28.68786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "嘉里建设-宏创发展中心南广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.858487,
+          28.680587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "前湖大道地铁站1号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.834966,
+          28.651151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "前湖大道地铁站2号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.835434,
+          28.651979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "前湖大道(地铁站)",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.834939,
+          28.651869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "前湖大道地铁站4号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.834324,
+          28.651535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "前湖大道地铁站3号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.834956,
+          28.652648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "红角洲管理处红角洲赣江南大道国际会展中心",
+        "category": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.839575,
+          28.649325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "摩天轮国际会展中心",
+        "category": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.849975,
+          28.657925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "怡和香槟广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.842914,
+          28.647898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "鲜花假日广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.841112,
+          28.645678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "红谷滩健身场健走步道-广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.840121,
+          28.643322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "长天广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.839189,
+          28.642934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "红谷滩区绿里植物馆",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.838355,
+          28.65478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "上罗村新时代文明实践广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.839553,
+          28.743235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "上罗村健身广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.839599,
+          28.743279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "江西科技师范大学(枫林校区)-世纪广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.837463,
+          28.73716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "南昌经开中央花园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.834851,
+          28.74862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "四大发明广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.835701,
+          28.732972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "含弘广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.000996,
+          28.699368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "南塘湖市民公园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.012102,
+          28.699817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "寰宇万象湿地公园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.974268,
+          28.664159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "联胜天香公园(装修中)",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.968904,
+          28.652003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "高新大道地铁站1号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.961318,
+          28.67399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "艾溪湖西(地铁站)",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.973685,
+          28.674424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "高新大道地铁站4号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.96009,
+          28.673625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "艾溪湖西地铁站1号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.974926,
+          28.674085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "艾溪湖西地铁站3号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.973647,
+          28.675115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "红苑书香广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.958107,
+          28.666529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "陈氏水族馆(京东花鸟市场店)",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.956013,
+          28.665085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "南昌海洋公园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.977449,
+          28.673768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "天香缘前广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.959803,
+          28.65333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "红谷桃园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.854162,
+          28.665637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "南昌市风筝广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.84811,
+          28.657155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "秋水广场地铁站3号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.859004,
+          28.681671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "秋水广场地铁站4号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.858511,
+          28.681398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "秋水广场(地铁站)",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.859973,
+          28.681095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "秋水广场地铁站2号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.860493,
+          28.681397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "崛起广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.859033,
+          28.684124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "赣江市民公园-红谷广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.863088,
+          28.682304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "中顺公园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.86234,
+          28.687461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠江路地铁站1号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.875873,
+          28.706642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "珠江路地铁站4号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.875208,
+          28.707063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "北沥地铁站2号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.973434,
+          28.714849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "北沥地铁站1号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.972734,
+          28.714968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "南昌高新孺子园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9723,
+          28.722809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "礼庄山地铁站4号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.770852,
+          28.625541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "礼庄山(地铁站)",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.771718,
+          28.62549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "礼庄山地铁站1号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.772448,
+          28.62494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "礼庄山地铁站3号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.771165,
+          28.625991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "礼庄山地铁站2号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.772026,
+          28.625867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "学府大道东地铁站4号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.838415,
+          28.658732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "学府大道东(地铁站)",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.839123,
+          28.659244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "学府大道东地铁站1号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.839126,
+          28.658393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "学府大道东地铁站2号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.839596,
+          28.659215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "航天广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.826233,
+          28.653895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "南昌航空大学-火箭广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.826398,
+          28.653649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "小微湿地",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.82056,
+          28.655392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "青山湖大道地铁站1号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.949366,
+          28.673679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "青山湖大道地铁站4号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.948195,
+          28.674004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "青山湖大道地铁站2号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.949899,
+          28.674606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "青山湖大道(地铁站)",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.948836,
+          28.674363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "青山湖大道地铁站3号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.948606,
+          28.674997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "699创意工场-中心花园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.942714,
+          28.665486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "清风小游园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.943287,
+          28.660128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "工业记忆广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.941747,
+          28.665672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "礼步先生广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.834961,
+          28.68537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "礼步湖公园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.830211,
+          28.68694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "礼步湖公园-健身区",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.826725,
+          28.685325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "礼步湖公园-法治主题公园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.825662,
+          28.685387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "北沥地铁站4号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.972701,
+          28.715879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "北沥地铁站3号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.973435,
+          28.715943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "北沥地铁站5号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.971178,
+          28.715665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "北沥(地铁站)",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.972525,
+          28.715457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "保利·东湾国际滨江公园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.971891,
+          28.730087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "徐孺子高士广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.970867,
+          28.723943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "江铃地铁站3号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.907054,
+          28.625181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "江铃(地铁站)",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.907392,
+          28.62428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "江铃地铁站4号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.907173,
+          28.623763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "江铃地铁站1号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.907788,
+          28.623758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "施尧地铁站3号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.907529,
+          28.615999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "桂花广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.898872,
+          28.627208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "聚贤广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.89882,
+          28.627311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "江铃汽车文化广场(江铃体育活动中心店)",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.904077,
+          28.61993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "象湖风景区-汪大渊纪念广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.899045,
+          28.620209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "京山党建主题公园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.905364,
+          28.632159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "京家山地铁站3号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.906343,
+          28.639609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "京家山地铁站4号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.905795,
+          28.638663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "京家山(地铁站)",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.906513,
+          28.639218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "京家山地铁站1号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.906961,
+          28.63835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "十字街地铁站4号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.905714,
+          28.652896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "灌婴广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.902517,
+          28.640057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "建南社区小游园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.906371,
+          28.645401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "京3+文化公园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.906856,
+          28.639564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "抚河公园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.898234,
+          28.653505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "豫章园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.908767,
+          28.647179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "八一乡甫北社区三风广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.950883,
+          28.59079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "西站南广场地铁站1号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.790766,
+          28.617538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "西站南广场(地铁站)",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.790539,
+          28.618386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "西站南广场地铁站4号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.790267,
+          28.619682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "西站南广场地铁站2号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.791424,
+          28.618404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "西站南广场地铁站3号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.791816,
+          28.618941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "南昌西站南广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.791487,
+          28.620018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "南昌法治文化公园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.85465,
+          28.661499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "安丰地铁站2号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.810766,
+          28.610485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "安丰地铁站3号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.809259,
+          28.61119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "安丰地铁站1号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.809757,
+          28.609841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "安丰(地铁站)",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.809017,
+          28.610946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "安丰地铁站5号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.808648,
+          28.610739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "九龙湖消防公园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.819551,
+          28.613744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "赣江市民公园活力公园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.816459,
+          28.605323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "七里地铁站4号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.926849,
+          28.708637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "七里地铁站1号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.928214,
+          28.709604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "七里(地铁站)",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.927472,
+          28.709415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "七里地铁站3号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.926398,
+          28.709202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "七里地铁站2号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.927702,
+          28.709973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "青山湖西岸公园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.932047,
+          28.703967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "相思林公园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.925883,
+          28.691829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "燕鸣岛",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.942119,
+          28.69766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "燕鸣岛公园-休闲区",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.943154,
+          28.698396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "99樟树林文创园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.916573,
+          28.697129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "沈桥地铁站3号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.971248,
+          28.641847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "沈桥地铁站2号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.972839,
+          28.640916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "沈桥(地铁站)",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.97193,
+          28.640865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "沈桥地铁站4号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.970649,
+          28.64066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "李巷地铁站2号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.958918,
+          28.644169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "天香园-鸽子广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.958322,
+          28.652424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "地铁大厦地铁站1号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.852955,
+          28.683123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "地铁大厦地铁站2号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.853538,
+          28.68389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "八大山人地铁站2号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.90883,
+          28.60263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "八大山人(地铁站)",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.908447,
+          28.601805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "八大山人地铁站4号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.908019,
+          28.601219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "邓埠地铁站3号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.909298,
+          28.59035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "邓埠(地铁站)",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.909871,
+          28.589661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "华南文旅公园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.91406,
+          28.606962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "陈云旧居广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.908775,
+          28.604212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "青云休闲公园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.908134,
+          28.604365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "梅湖湾文旅公园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.913394,
+          28.608034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "热带风情植物园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.921607,
+          28.598827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "顺外地铁站1号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.929016,
+          28.6634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "顺外(地铁站)",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.928124,
+          28.663683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "顺外地铁站4号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.927366,
+          28.66336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "彭家桥地铁站5号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.933836,
+          28.673879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "辛家庵地铁站2号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.939706,
+          28.659985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "搪瓷厂休闲广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.939895,
+          28.669126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "前广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.94158,
+          28.666483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "天幕广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.939676,
+          28.673196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "人民广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.242494,
+          28.375933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "红谷中大道地铁站2号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.867749,
+          28.691783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "红谷中大道地铁站3号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.86737,
+          28.692302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "红谷中大道地铁站出入口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.86722,
+          28.692439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "红谷中大道(地铁站)",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.867006,
+          28.691703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "红谷中大道地铁站1号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.866867,
+          28.69134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "桂馥",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.87394,
+          28.692686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "天虹商场-客户服务中心",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.865059,
+          28.69014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "红谷滩区禁毒主题公园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.862874,
+          28.696793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "陶家新村村委会广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.860675,
+          28.694925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "红谷中大道地铁站4号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.86623,
+          28.691692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "兄弟广场(南昌华盛奥特莱斯店)",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.775186,
+          28.641444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "南昌·华南城-3号交易广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.775152,
+          28.641503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "华盛奥特莱斯-北广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.774976,
+          28.643122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "求实湿地公园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.788221,
+          28.641072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "鹰潭街地铁站2号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.799888,
+          28.598936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "鹰潭街地铁站1号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.799673,
+          28.598588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "鹰潭街(地铁站)",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.799006,
+          28.599043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "鹰潭街地铁站3号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.798423,
+          28.599529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "鹰潭街地铁站4号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.798217,
+          28.599167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "绿地国际博览中心A2展馆",
+        "category": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.795284,
+          28.604106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "南昌绿地国际博览中心",
+        "category": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.795225,
+          28.604067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "天玺与久玺中间的公园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.80475,
+          28.600208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "雨阳公园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.812365,
+          28.59555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "剧院广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.805522,
+          28.590121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "展览广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.805893,
+          28.589351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "音乐喷泉广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.804678,
+          28.588653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "南昌居住主题公园C区",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.891243,
+          28.592329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "金沙社区公园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.892921,
+          28.582317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "清风公园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.888453,
+          28.593853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "高新大道地铁站3号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.959659,
+          28.674833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "高新大道(地铁站)",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.960385,
+          28.674424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "高新大道地铁站出入口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.95984,
+          28.67519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "文泉艺术公园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.951854,
+          28.676395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "志者体育运动公园(暂停开放)",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.945547,
+          28.669962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "象湖南湿地公园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.88044,
+          28.60812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "西桥广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.888305,
+          28.610063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "进贤县禁毒主题公园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.244925,
+          28.397626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "腾飞公园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.244662,
+          28.397764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "萌宠乐园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.243987,
+          28.402769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "青冈广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.241496,
+          28.401875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "青岚湖森林公园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.239822,
+          28.402781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "国博地铁站1号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.79629,
+          28.607551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "国博地铁站2号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.796471,
+          28.60821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "国博(地铁站)",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.79587,
+          28.608219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "南昌绿地庆典广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.791976,
+          28.606175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "庐山南大道地铁站2号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.865732,
+          28.701984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "庐山南大道地铁站1号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.86646,
+          28.700967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "庐山南大道(地铁站)",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.865675,
+          28.70141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "庐山南大道地铁站3号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.864832,
+          28.701685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "钟陵公园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.265288,
+          28.377809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "贤士广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.262871,
+          28.371896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "邓埠根生文化广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.900993,
+          28.577603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "南昌西站北广场-西站美食城",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.795356,
+          28.624755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "南昌西站北广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.79446,
+          28.625042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "起凤路地铁站2号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.916853,
+          28.702871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "起凤路地铁站1号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.917665,
+          28.702706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "起凤路(地铁站)",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.917038,
+          28.702412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "起凤路地铁站4号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.916716,
+          28.701603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "紫金广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.906395,
+          28.704431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "宪法文化主题园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.905404,
+          28.702715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "99樟树林文创园-中心广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.9165,
+          28.696915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "东湖区禁毒主题公园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.902576,
+          28.699778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "江西农业大学南区新区-燕园广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.836037,
+          28.758245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "居民广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.851428,
+          28.691603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "复兴大道东地铁站5号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.912194,
+          28.574952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "复兴大道东地铁站4号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.912054,
+          28.575666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "复兴大道东地铁站1号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.912808,
+          28.575542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "复兴大道东(地铁站)",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.912332,
+          28.576072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "复兴大道东地铁站2号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.912561,
+          28.577092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "公交广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.912646,
+          28.576109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "金屋广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.91702,
+          28.578657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "恐龙世界(爱和汇·生活广场店)",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.913076,
+          28.569492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "澄湖国际商业街三期二区健身广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.926177,
+          28.57356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "国博地铁站4号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.794942,
+          28.60785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "国博地铁站3号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.795631,
+          28.609102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "生米休闲公园(建设中)",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.77952,
+          28.600973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "施尧地铁站1号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.908221,
+          28.614489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "施尧(地铁站)",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.907843,
+          28.615182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "施尧地铁站2号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.908232,
+          28.61601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "山水大厦会议中心",
+        "category": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.904258,
+          28.612333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "湿地花卉公园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.898204,
+          28.61535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "青云谱军隆广场(建设中)",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.934011,
+          28.604436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "平安文化广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.556449,
+          28.838565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "京庄社区文明实践广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.55312,
+          28.839975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "日月广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.55442,
+          28.836031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "文峰公园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.550868,
+          28.837339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "安义潦河市民公园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.556634,
+          28.835506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "东华理工大学青春广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.825838,
+          28.717004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "文化广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.82852,
+          28.713044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "岭北地铁站1号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.830309,
+          28.640252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "岭北(地铁站)",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.830145,
+          28.641038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "岭北地铁站2号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.830736,
+          28.64159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "岭北地铁站3号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.830133,
+          28.642207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "卧龙山地铁站2号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.82327,
+          28.63186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "红谷滩湿地公园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.835564,
+          28.636985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "红谷滩长天廉文化主题公园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.834364,
+          28.63488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "渔舟湾",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.836211,
+          28.637627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "海院前广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.824503,
+          28.645531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "万达滨江玫瑰园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.856381,
+          28.667833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "火炬广场地铁站4号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.948435,
+          28.687792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "火炬广场(地铁站)",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.949586,
+          28.688182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "赣鄱五湖天空体育公园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.949696,
+          28.685639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "火炬广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.948791,
+          28.687578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "长春休闲公园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.943125,
+          28.681575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "青山湖区长春广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.94307,
+          28.681573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "休闲公园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.954427,
+          28.690029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "观洲地铁站4号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.862934,
+          28.631658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "观洲地铁站1号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.863845,
+          28.632785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "观洲(地铁站)",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.863173,
+          28.632342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "观洲地铁站3号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.862514,
+          28.63202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "观洲地铁站2号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.862786,
+          28.633253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "南昌动物园-壮鹿岛",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.87661,
+          28.628916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "大象广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.878744,
+          28.628662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "南昌市动物园象馆",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.877304,
+          28.629808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "金丝猴馆",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.874883,
+          28.632913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "观田地铁站3号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.980265,
+          28.639213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "观田(地铁站)",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.980876,
+          28.638231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "竹山村活动健身小广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.988781,
+          28.640714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "罗家广场-党建文化广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.98594,
+          28.635365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "高新大道地铁站2号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.960897,
+          28.675086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "桃苑地铁站3号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.88843,
+          28.660465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "桃苑地铁站4号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.889286,
+          28.659252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "桃苑(地铁站)",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.889983,
+          28.659711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "桃苑地铁站1号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.890256,
+          28.659497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "桃苑地铁站2号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.891251,
+          28.659748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "桃花河广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.883628,
+          28.660196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "西湖区桃花园休闲广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.880285,
+          28.660655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "长江路地铁站2号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.880027,
+          28.717851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "长江路(地铁站)",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.879619,
+          28.717481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "长江路地铁站3号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.879347,
+          28.718042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "赣江市民公园五期",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.888472,
+          28.726085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "银三角市政景观公园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.943595,
+          28.512597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "银三角北地铁站3号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.934221,
+          28.521139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "银三角北(地铁站)",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.934838,
+          28.520919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "银三角北地铁站2号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.934722,
+          28.521438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "银三角北地铁站4号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.935126,
+          28.520252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "银三角北地铁站1号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.935604,
+          28.520455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "水利投资公司健走步道-广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.931102,
+          28.525732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "富山森林公园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.921324,
+          28.528374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "贵都文化广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.93506,
+          28.52854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "斗南路公园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.932071,
+          28.531721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "万科公园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.932388,
+          28.531712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "生米地铁站2号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.791449,
+          28.572522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "生米地铁站1号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.791189,
+          28.571289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "生米地铁站3号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.790666,
+          28.572484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "生米(地铁站)",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.790844,
+          28.571832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "生米地铁站4号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.790414,
+          28.57129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "中央公园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.797687,
+          28.575603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "莲花广场",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.78707,
+          28.578253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "南昌大学医学院-新世纪广场(前湖校区)",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.790954,
+          28.644704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "卫东地铁站3号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.848366,
+          28.691423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "卫东地铁站出入口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.848593,
+          28.691274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "卫东地铁站4号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.848154,
+          28.690776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "卫东地铁站2号口",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.849535,
+          28.691253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "卫东(地铁站)",
+        "category": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.848985,
+          28.690856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "樱花园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.846979,
+          28.697067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "会展路游园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.843509,
+          28.692463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "马兰圩湿地公园",
+        "category": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.838792,
+          28.690542
+        ]
+      }
+    }
+  ]
+}
